@@ -52,11 +52,6 @@ The **Bike Sales Dashboard** is a data visualization project designed to analyze
   - PivotTables
   - PivotCharts
   - Slicers
-- **Data Analysis Techniques**
-  - Segmentation
-  - Trend comparison
-  - Behavioral pattern recognition
-
 ---
 
    <p align = "center"
